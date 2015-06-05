@@ -23,6 +23,10 @@ Usage of vhealth.exe:
   -ip="127.0.0.1": specify listening ip address
   -port=9090: specify the listing port
 ```
+## Credit
+This software uses following libs:
+* Chart.js http://www.chartjs.org/
+* Elegant Aero CSS HTML Form: http://www.sanwebe.com/2013/10/css-html-form-styles
 
 
 ## License
